@@ -1,5 +1,6 @@
 # QR COODE GENERATOR
 _This project is the 1st out of my "30 Days of JavaScript projects" personal challenge._
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzJnMnVsNXZoZzR5ZWdnanFkcHFyZ24wZXF3aXM1cDlkYTBvMGFjYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S0xGoRcZCAJVyigMQp/giphy.gif)
 
 ## Concept
 A simple website capable of receving URLs or random texts and turning them into QR Codes.
@@ -17,6 +18,8 @@ If you would like to run this on your computer and try it for yourself, follow t
 4. The file should open as a web page on your main browser
 5. Insert an URL or random String
 6. Watch as your QR Code is created :)
+
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhhNThoenczbHFkbHhkZmZtNHVudHY0Y3R3emh5dGd2bHp6eDNwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YHBa9Ogftm5gyGY3qj/giphy.gif)
 
 ## Credits
 This project was developed by Sofia Diniz following the [Great Stack tutorial](https://www.youtube.com/watch?v=g1j9rR-H1lk&list=PLjwm_8O3suyOgDS_Z8AWbbq3zpCmR-WE9&index=8)
